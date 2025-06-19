@@ -19,7 +19,7 @@ A comprehensive guide to prepare for the AWS Machine Learning Specialty Exam, pr
 
 - **Start Reading:** Begin with [Chapter 1: The Neural Network Story](chapters/chapter1_Neural_Network_Story.md)
 - **HTML Version:** View the [complete book in HTML format](html/AWS_ML_Book_Complete.html)
-- **GitHub Pages:** If you've enabled GitHub Pages, the book will be available at `https://prabhugr.github.io/AWS-ML-Specialty-ELI5-Guide/`
+- **GitHub Pages:** Read the book online at [https://prabhugr.github.io/AWS-ML-Specialty-ELI5-Guide/](https://prabhugr.github.io/AWS-ML-Specialty-ELI5-Guide/)
 
 Each chapter includes navigation links to return to this table of contents.
 
